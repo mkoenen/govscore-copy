@@ -8,9 +8,9 @@
 .ui-navbar .ui-btn-left.ui-icon-home,
 .ui-header .ui-btn-left.ui-icon-arrow-l:active,
 .ui-navbar .ui-btn-left.ui-icon-home:active, {
-    background-color: rgba(1,1,1,0);
-    border: none;
-    text-shadow: none;
+    background-color: rgba(1,1,1,0) !important;
+    border: none !important;
+    text-shadow: none !important;
 }
 .ui-header .ui-btn-left.ui-icon-arrow-l:hover,
 .ui-navbar .ui-btn-left.ui-icon-home:hover, {
