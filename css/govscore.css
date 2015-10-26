@@ -5,9 +5,18 @@
 /* navigation -------------------------------------*/
 
 .ui-header .ui-btn-left.ui-icon-arrow-l,
-.ui-navbar .ui-btn-left.ui-icon-home {
+.ui-navbar .ui-btn-left.ui-icon-home,
+.ui-header .ui-btn-left.ui-icon-arrow-l:active,
+.ui-navbar .ui-btn-left.ui-icon-home:active, {
     background-color: rgba(1,1,1,0);
     border: none;
+    text-shadow: none;
+}
+.ui-header .ui-btn-left.ui-icon-arrow-l:hover,
+.ui-navbar .ui-btn-left.ui-icon-home:hover, {
+    background-color: #aaaaaa !important;
+	border-color: #aaaaaa !important;
+	text-shadow: none !important;
 }
 .ui-navbar li.ui-block-b, .ui-navbar li.ui-block-c, .ui-navbar li.ui-block-d {
     width: 30%;
