@@ -4,7 +4,8 @@
 
 /* navigation -------------------------------------*/
 
-.ui-header .ui-btn-left.ui-icon-arrow-l {
+.ui-header .ui-btn-left.ui-icon-arrow-l,
+.ui-navbar .ui-btn-left.ui-icon-home {
     background-color: rgba(1,1,1,0);
     border: none;
 }
