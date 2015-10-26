@@ -15,7 +15,7 @@
 .ui-navbar li.ui-block-a {
     max-width: 10%;
 }
-a.ui-nodisc-icon.ui-icon-home {
+.ui-navbar ul li a.ui-nodisc-icon.ui-icon-home {
     margin: 5px 0 0 10px;
 }
 
