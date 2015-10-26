@@ -4,6 +4,25 @@
 
 /* navigation -------------------------------------*/
 
+.ui-header .ui-btn-left.ui-icon-arrow-l {
+    background-color: rgba(1,1,1,0);
+    border: none;
+}
+.ui-navbar li.ui-block-b, .ui-navbar li.ui-block-c, .ui-navbar li.ui-block-d {
+    width: 30%;
+}
+.ui-navbar li.ui-block-a {
+    max-width: 10%;
+}
+a.ui-nodisc-icon.ui-icon-home {
+    margin: 5px 0 0 10px;
+}
+
+
+
+
+
+
 .ui-btn-active {
 	background-color:#34cfc6;
 }
@@ -23,7 +42,7 @@ label.ui-btn.ui-corner-all.ui-btn-inherit {
 	height: auto;
 	text-align: center;
 }
-.ui-header .ui-btn-left.ui-icon-home {
+.ui-header .ui-btn-left.ui-icon-arrow-l {
 background-color: rgba(51, 51, 51, 0);
 border-color: rgba(0, 0, 0, 0);
 text-shadow: none;
