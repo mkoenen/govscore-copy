@@ -22,7 +22,7 @@ label.ui-btn.ui-corner-all.ui-btn-inherit {
 	height: auto;
 	text-align: center;
 }
-a.ui-nodisc-icon.ui-icon-arrow-l.ui-btn-icon-notext,
+html body a.ui-nodisc-icon.ui-icon-arrow-l.ui-btn-icon-notext,
 .ui-navbar ul li a.ui-nodisc-icon.ui-icon-home,
 a.ui-nodisc-icon.ui-icon-arrow-l.ui-btn-icon-notext:active,
 .ui-navbar ul li a.ui-nodisc-icon.ui-icon-home:active, {
@@ -30,7 +30,7 @@ a.ui-nodisc-icon.ui-icon-arrow-l.ui-btn-icon-notext:active,
     border: none !important;
     text-shadow: none !important;
 }
-.ui-header a.ui-nodisc-icon.ui-icon-arrow-l.ui-btn-icon-notext:hover,
+html body .ui-header a.ui-nodisc-icon.ui-icon-arrow-l.ui-btn-icon-notext:hover,
 .ui-header a.ui-nodisc-icon.ui-icon-arrow-l.ui-btn-icon-notext:focus,
 .ui-navbar ul li a.ui-nodisc-icon.ui-icon-home:hover,
 .ui-navbar ul li a.ui-nodisc-icon.ui-icon-home:focus {
